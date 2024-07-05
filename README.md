@@ -1,6 +1,9 @@
 # vue2-demo
 
 ## Project setup
+node版本 14.17.5
+
+## Project setup
 ```
 npm install
 ```
